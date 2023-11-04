@@ -1,0 +1,40 @@
+
+*{
+  margin: 0;
+
+}
+
+
+
+
+  .custom-navbar {
+    height: 13vh;
+    width: 100%;
+}
+
+.navbar-nav {
+    margin-right: 70px;
+}
+
+.navbar-nav .nav-item {
+    margin-right: 40px;
+    font-weight: 300;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    transition: color 0.3s; 
+}
+
+.navbar-nav .nav-item a.nav-link {
+    text-decoration: none; 
+    color: black;
+}
+
+.navbar-nav .nav-item a.nav-link:hover {
+   color: aliceblue;
+
+}
+.carousel slide{
+  height: 90vh;
+
+}
